@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 740px) {
+
+    .reveiw_img {
+        height: 29px;
+      }
+      .review_txt > p {
+      
+        font-size: 0.6rem;
+      }
+      .footer_first > h1 {
+        font-size: 1rem;
+      }
+      .footer_second p {
+        font-size: .5rem;
+      }
+      .footer_third > h2 {
+        font-size: 1rem;
+      }
+      .footer_third > p {
+        font-size: 0.5rem;
+      }
+      .footer_fourth > h2 {
+        font-size: 0.8rem;
+      }
+      .footer_fourth > .fab {
+        font-size: 0.7rem;
+      }
+      .footer_first > .fab {
+        font-size: 0.8rem;
+      }
+      .footer_copyright {
+      
+        font-size: 0.8rem;
+      }
+      .quality_txt p{
+        font-size: 0.9rem;
+      }
+      .quality_text>p{
+        font-size: 0.8rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
